@@ -12,8 +12,8 @@ tags = [
 Gaston MKE Grandstream Problem
 ========================
 
-https://132.147.100.1:8089/
-admin: syncmaster2023
+https://132.147.110.1:8089/
+admin: yatusabe
 
 Problema, no registra usuarios externos
 
