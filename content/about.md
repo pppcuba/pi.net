@@ -10,21 +10,21 @@ Somos una empresa de Informática y Telecomunicaciones. Nos especializamos en br
 
 Algunos de los trabajos que realizamos:
 
--Cableado de red y fibra óptica
--Enlaces inalambricos largos ( > 8km )
--Soluciones de Cobertura de señal de Celular y Wi-Fi
--Configuración de routers y switch (Cisco, Mikrotik, Tplink, HP, etc)
--Sistemas de monitoreo y alertas de las redes informáticas (Zabbix, Dude, PRTG)
--Instalación de Cámaras de seguridad en hogares e instituciones
--Porteros e Intercomunicadores
--Sistemas de audio multiroom para grandes salones
--Telefonía IP para PyMes y grandes empresas
--Conexiones de sucursales por VPN (Wireguard, Openvpn, etc)
--Instalamos y arreglamos computadoras personales
--Armado de Racks de Comunicaciones
--Soluciones a estudios streaming y salas de conferencias
--Mantenimiento preventivo a sistemas de Comunicaciones
--Consultorias y capacitaciones a empresas.
+- Cableado de red y fibra óptica
+- Enlaces inalambricos largos ( > 8km )
+- Soluciones de Cobertura de señal de Celular y Wi-Fi
+- Configuración de routers y switch (Cisco, Mikrotik, Tplink, HP, etc)
+- Sistemas de monitoreo y alertas de las redes informáticas (Zabbix, Dude, PRTG)
+- Instalación de Cámaras de seguridad en hogares e instituciones
+- Porteros e Intercomunicadores
+- Sistemas de audio multiroom para grandes salones
+- Telefonía IP para PyMes y grandes empresas
+- Conexiones de sucursales por VPN (Wireguard, Openvpn, etc)
+- Instalamos y arreglamos computadoras personales
+- Armado de Racks de Comunicaciones
+- Soluciones a estudios streaming y salas de conferencias
+- Mantenimiento preventivo a sistemas de Comunicaciones
+- Consultorias y capacitaciones a empresas.
 
 
 Si lo que necesitas no está en la lista anterior, lo investigamos y te damos una solución :D
