@@ -6,20 +6,38 @@ aliases = ["about-us", "about-hugo", "contact"]
 author = "Pi.Net Soluciones"
 +++
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+Somos una empresa de Informática y Telecomunicaciones. Nos especializamos en brindar soluciones adaptadas al cliente mezclando diferentes técnicas, marcas y "rarezas" del mundo tecnológico para abaratar y elevar el nivel de las implementaciones. Hacemos de todo un poco, somos flexibles y novedosos.
 
-Hugo makes use of a variety of open source projects including:
+Algunos de los trabajos que realizamos:
 
-* https://github.com/yuin/goldmark
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
+-Cableado de red y fibra óptica
+-Enlaces inalambricos largos ( > 8km )
+-Soluciones de Cobertura de señal de Celular y Wi-Fi
+-Configuración de routers y switch (Cisco, Mikrotik, Tplink, HP, etc)
+-Sistemas de monitoreo y alertas de las redes informáticas (Zabbix, Dude, PRTG)
+-Instalación de Cámaras de seguridad en hogares e instituciones
+-Porteros e Intercomunicadores
+-Sistemas de audio multiroom para grandes salones
+-Telefonía IP para PyMes y grandes empresas
+-Conexiones de sucursales por VPN (Wireguard, Openvpn, etc)
+-Instalamos y arreglamos computadoras personales
+-Armado de Racks de Comunicaciones
+-Soluciones a estudios streaming y salas de conferencias
+-Mantenimiento preventivo a sistemas de Comunicaciones
+-Consultorias y capacitaciones a empresas.
 
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
 
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
+Si lo que necesitas no está en la lista anterior, lo investigamos y te damos una solución :D
 
-Websites built with Hugo are extremely fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
+En cuanto a nosotros, tratamos de crear un vínculo no solo técnico con el cliente, le damos tranquilidad y confianza para que no se preocupe por los posibles futuros problemas.
 
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+Certificaciones de nuestros técnicos
+
+- Cisco (CCNA)
+- Mikrotik (MTCNA, MTCRE, MTCTCE)
+- Grandstream
+- LPI
+- 3CX
+- Furukawa
+- Commscope
+- Hikvision
