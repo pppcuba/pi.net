@@ -1,14 +1,18 @@
 [not_found]
-    other = "NOT FOUND"
+#    other = "NOT FOUND"
+    other = "No, acá no hay nada"
 
 [not_found_desc]
-    other = "You just hit a route that doesn't exist..."
+#    other = "You just hit a route that doesn't exist..."
+    other = "Justo fuiste a una ruta que no existe :(..."
 
 [home]
-    other = "Home"
+#    other = "Home"
+    other = "Inicio"
 
 [published]
-    other = "published"
+#    other = "published"
+    other = "publicado"
 
 [reading_time]
     other = "reading time"
@@ -18,19 +22,24 @@
   other = "{{ .Count }} minutes"
 
 [authors]
-  other = "authors"
+#  other = "authors"
+    other = "autores"
 
 [tags]
   other = "tags"
 
 [categories]
-  other = "categories"
+#  other = "categories"
+    other = "categorias"
 
 [and]
-  other = "and"
+  # other = "and"
+    other = "y"
 
 [powered_by]
-  other = "Built with"
+  # other = "Built with"
+    other = "Creado con"
 
 [theme]
-  other = "theme"
+#  other = "theme"
+    other = "estilo"

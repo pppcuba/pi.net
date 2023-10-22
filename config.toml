@@ -18,8 +18,11 @@ user = "pinetvpc"
 hostname = "gmail.com"
 footerHtml = '"Todo se conecta"'
 
-readingTime = true  # Show reading time on post page
+#readingTime = true  # Show reading time on post page
 published = true  # Show published data on post page
+
+readingTime = false  # Show reading time on post page
+#published = false  # Show published data on post page
 
 [[params.social]]
 key = 0
