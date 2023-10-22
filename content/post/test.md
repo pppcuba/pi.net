@@ -9,7 +9,7 @@ tags = [
 ]
 +++
 
-Gaston MKE Grandstream Problem a a a
+Gaston MKE Grandstream Problem
 ========================
 
 https://132.147.110.1:8089/
