@@ -1,4 +1,4 @@
-baseURL = 'http://web.pinet.ar/'
+baseURL = 'http://pi.net.ar/'
 languageCode = 'es-es'
 theme = "nightfall"
 
