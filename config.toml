@@ -27,7 +27,7 @@ readingTime = false  # Show reading time on post page
 [[params.social]]
 key = 0
 name = "whatsapp"
-url = "https://api.whatsapp.com/send?phone=5493413226400"
+url = "https://api.whatsapp.com/send?phone=5493417225360"
 icon = "fab fa-whatsapp whatsapp-icon" # Add link to your icon font to `layouts/partials/custom-head.html`
 
 [[params.social]]
@@ -57,3 +57,12 @@ icon = "fa-solid fa-envelope-open"
 
 # [params]
 # footerHtml = '"Todo se conecta"'
+
+#
+#[Card]
+#  nombre =    "Pablo Pinet"
+#  titulo =    "Ingeniero"
+#  telefono =  "+549 3413226400"
+#  web =       "https://pi.net.ar"
+
+#Whatsapp #Telegram #Instagram #facebook
