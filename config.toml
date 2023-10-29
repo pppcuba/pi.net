@@ -33,7 +33,7 @@ icon = "fab fa-whatsapp whatsapp-icon" # Add link to your icon font to `layouts/
 [[params.social]]
 key = 1
 name = "telegram"
-url = "https://t.me/pablopinet"
+url = "https://t.me/pinetsoluciones"
 rel = "me"  # You can also add rel to social link
 icon = "fab fa-telegram"
 
